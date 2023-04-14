@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+body{
+    color: yellow;
+}
+h1{
+    color:red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-align: left;
+    text-decoration: underline;
+}
+
+h3{
+    color:rgb(255, 20, 147);
+    font-family: 'Poppins', sans-serif;
+font-weight: 200;
+  
+}
+p{
+    color: #000;
+}
+input{
+    color: tomato;
+}
